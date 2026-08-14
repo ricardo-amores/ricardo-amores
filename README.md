@@ -4,7 +4,9 @@
 
 ### 💻 Sistemas de la Información · 🔐 Ciberseguridad · 🚀 Tecnología
 
-<img src="./assets/pacman-ricardo.gif" width="850" alt="Pac-Man comiendo el nombre Ricardo Amores">
+<img width="1600" height="414" alt="pacman-ricardo" src="https://github.com/user-attachments/assets/269cccfc-5be6-473b-9b73-09c120f5f7e5" />
+
+
 
 </div>
 
@@ -86,9 +88,9 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos y buscar soluciones
 
 <div align="center">
 
-|                                                             🚀 Actualmente trabajando                                                            |                                                         📈 Actividad reciente                                                        |
-| :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&image_size=auto" width="400"> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?image_size=auto" width="400"> |
+| 🚀 Actualmente trabajando | 📈 Actividad reciente |
+| :-----------------------: | :-------------------: |
+| <img width="450" src="https://github.com/user-attachments/assets/06014593-7a64-4f3e-a1b5-264ded727af4" /> | <img width="450" src="https://github.com/user-attachments/assets/93ceb4d5-c8e2-4a72-bce8-8c2d8da898c1" /> |
 
 </div>
 
@@ -98,21 +100,12 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos y buscar soluciones
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ricardoamoresdev&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="180">
+<img width="1000" height="400" alt="3" src="https://github.com/user-attachments/assets/e73328a9-5b33-451d-bc36-1eabde650986" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoamoresdev&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="180">
 
 </div>
 
 ---
-
-## 🔥 Racha de contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardoamoresdev&theme=tokyonight&hide_border=true">
-
-</div>
 
 ---
 
@@ -120,8 +113,12 @@ Me gusta aprender nuevas tecnologías, desarrollar proyectos y buscar soluciones
 
 <div align="center">
 
-<a href="https://github.com/ricardoamoresdev">
+<a href="https://github.com/ricardo-amores">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:rici.riquiamigos15@gmail.com">
+  <img src="https://img.shields.io/badge/Correo%20electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
